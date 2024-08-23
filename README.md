@@ -1,17 +1,12 @@
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table>
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
-       <ul>
+       <u>
         <li>📚 &nbsp; Estudiante de Analista Programador Universitario <a href="https://www.info.unlp.edu.ar">UNLP</a></li>
-        <li>👑 &nbsp; Futuro Programador </li>
+        <li>👀 &nbsp; Futuro Programador </li>
         <li>🤔 &nbsp; Interesado en Analisis de Datos </li>
-       </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
+       </u>
     </td>
     <td>
      <p align="center">
@@ -25,10 +20,6 @@
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
-     <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
      <br>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <br>
