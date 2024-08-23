@@ -4,10 +4,9 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://www.info.unlp.edu.ar">UT</a></li>
-        <li>📚 &nbsp; Estudiante de Analista Programador Universitario <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>📚 &nbsp; Estudiante de Analista Programador Universitario <a href="https://www.info.unlp.edu.ar">UNLP</a></li>
+        <li>👑 &nbsp; Futuro Programador </li>
+        <li>🤔 &nbsp; Interesado en Analisis de Datos </li>
        </ul>
        <p align="center">
          <br>
@@ -64,16 +63,13 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
+      <a href="https://www.instagram.com/jeromassaro/" target="_blank">
       <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
+      <a href="jero.massaro2001@gmail.com" >
       <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+      <a href="linkedin.com/in/jeronimo-massaro-6094b3263/" >
       <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
