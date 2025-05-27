@@ -22,16 +22,23 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="90" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📫 Cómo contactarme / How to reach me
+<p>
+  <a href="https://www.linkedin.com/in/jeronimo-massaro-6094b3263/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/> LinkedIn
+  </a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeronimo-massaro-6094b3263/)  
-- 📧 Gmail: [jero.massaro2001@gmail.com](mailto:jero.massaro2001@gmail.com)
-
+<p>
+  <a href="mailto:jero.massaro2001@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="30" style="vertical-align:middle;"/> Gmail
+  </a>
+</p>
