@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mí / About Me
 
-- 🎓 Estudiante de Ingeniería en Software  
+- 🎓 Estudiante de Analista Programador Universitario en UNLP 
 - 💻 Me gusta trabajar con datos, automatización y desarrollo de software  
 - 🚀 Siempre aprendiendo algo nuevo
 - 📈 Enfocado en mejorar mis habilidades técnicas y blandas constantemente
@@ -31,14 +31,6 @@
 ---
 
 ### 📫 Cómo contactarme / How to reach me
-<p>
-  <a href="https://www.linkedin.com/in/jeronimo-massaro-6094b3263/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/> LinkedIn
-  </a>
-</p>
 
-<p>
-  <a href="mailto:jero.massaro2001@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="30" style="vertical-align:middle;"/> Gmail
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeronimo-massaro-6094b3263/)  
+- 📧 Gmail: [jero.massaro2001@gmail.com](mailto:jero.massaro2001@gmail.com)
