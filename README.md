@@ -1,49 +1,37 @@
-<table>
-  <tr>
-    <td>
-      <h2> 💻 &nbsp;About Me </h2>
-       <u>
-        <li>📚 &nbsp; Estudiante de Analista Programador Universitario <a href="https://www.info.unlp.edu.ar">UNLP</a></li>
-        <li>👀 &nbsp; Futuro Programador </li>
-        <li>🤔 &nbsp; Interesado en Analisis de Datos </li>
-       </u>
-    </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-   </td>
-   <td>
-    <div align="center">
-      <h2><b>Contacto</b></h2>
-      <br>
-      <br>
-      <a href="https://www.instagram.com/jeromassaro/" target="_blank">
-      <img align="center" alt="Jeronimo Massaro| Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
-      </a> &nbsp;&nbsp;
-      <a href="jero.massaro2001@gmail.com" >
-      <img align="center" alt="Jeronimo Massaro | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/jeronimo-massaro-6094b3263/" >
-      <img align="center" alt="Jeronimo Massaro | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
-      </a> &nbsp;&nbsp;
-      <br>
-    </div>
-   </td>
-  </tr>
-</table>
+<h1 align="center">¡Hola! / Hi there! 👋</h1>
+
+<p align="center">
+  Soy Jeronimo Massaro, un apasionado por la programación, el análisis de datos y todo lo que tenga que ver con resolver problemas con código.  
+  <br>
+  I'm Jeronimo Massaro, passionate about coding, data analysis, and solving real-world problems with logic and creativity.
+</p>
+
+---
+
+### 🧠 Sobre mí / About Me
+
+- 🎓 Estudiante de Ingeniería en Software  
+- 💻 Me gusta trabajar con datos, automatización y desarrollo de software  
+- 🚀 Siempre aprendiendo algo nuevo
+- 📈 Enfocado en mejorar mis habilidades técnicas y blandas constantemente
+
+---
+
+### 🛠️ Tecnologías que uso / Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Cómo contactarme / How to reach me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeronimo-massaro-6094b3263/)  
+- 📧 Gmail: [jero.massaro2001@gmail.com](mailto:jero.massaro2001@gmail.com)
+
