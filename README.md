@@ -37,7 +37,7 @@
   <!-- Backend y APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/OpenAPI_Logo_Pantone.png" alt="API REST" width="40" height="40" title="API REST"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2166/2166824.png" alt="API Modern" width="40" height="40"/>
 </p>
 
 ---
