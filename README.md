@@ -1,10 +1,13 @@
 <h1 align="center">¡Hola! / Hi there! 👋</h1>
 
 <p align="center">
-  Soy Jeronimo Massaro, un apasionado por la programación, el análisis de datos y todo lo que tenga que ver con resolver problemas con código. 
+  Soy Jeronimo Massaro, un apasionado por la programación, el análisis de datos y todo lo que tenga que ver con resolver problemas con código.
+  <br>
   Actualmente me enfoco en el Desarrollo de Software Backend.
   <br>
+  <br>
   I'm Jeronimo Massaro, passionate about coding, data analysis, and solving real-world problems with logic and creativity.
+  <br>
   Actually i'm focusing at Backend Software Development
 </p>
 
